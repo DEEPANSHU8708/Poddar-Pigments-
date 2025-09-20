@@ -38,22 +38,17 @@ The project demonstrates practical implementation of Android development concept
   - Using Git/GitHub for version control  
   - Optimizing app performance
 
- #  Project Structure
-Poddar-Pigments/
-│-- app/
-│ │-- src/
-│ │ │-- main/
-│ │ │ │-- java/
-│ │ │ │-- res/
-│ │-- build.gradle
-│-- gradle/
-│-- settings.gradle
+## 📂 Project Structure (Simplified)
+- **app/src/main/java/** → Kotlin/Java code  
+- **app/src/main/res/** → Layouts, Images, and other resources  
+- **build.gradle** → Gradle build configuration  
+
+
+🏆 Outcome
 
 This internship provided me with hands-on experience in Android app development and improved my skills in:
 
 Mobile UI/UX design
-Git/GitHub collaboration
-Real-world project delivery within deadlines
 
 Git/GitHub collaboration
 
